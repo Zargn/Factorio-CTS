@@ -1,4 +1,4 @@
-# Factorio-CTS
+# Factorio-CTS - Circuit Train Scheduler
 A Factorio Circuit based train scheduler for generic depot-based trains.
 
 **`This is a work in progress page. The system blueprints has not been released yet as of 2024/4/10. But they will be soon. I basically just need to finish documentation, and decide on the best way to post it.`**
