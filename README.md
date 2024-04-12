@@ -1,6 +1,9 @@
 # Factorio-CTS - Circuit Train Scheduler
 A Factorio Circuit based train scheduler for generic depot-based trains.
 
+Short train ride showcasing the generic trains.
+https://youtu.be/iIjB3PG-0pA
+
 **`This is a work in progress page. The system blueprints has not been released yet as of 2024/4/10. But they will be soon. I basically just need to finish documentation, and decide on the best way to post it.`**
 
 After around 250 hours of work I can finally present version 1 of my circuit based train scheduler. I have been thinking of wanting to make train depots possible for ages, but I never got anywhere because of the complex nature of how (and if) it cound be done, until last september when I decided to just go for it anyway. 
